@@ -1,0 +1,45 @@
+C:/Users/CA3/Desktop/EjerciciosDos/bin/Debug/net6.0/EjerciciosDos.exe
+C:/Users/CA3/Desktop/EjerciciosDos/bin/Debug/net6.0/EjerciciosDos.deps.json
+C:/Users/CA3/Desktop/EjerciciosDos/bin/Debug/net6.0/EjerciciosDos.runtimeconfig.json
+C:/Users/CA3/Desktop/EjerciciosDos/bin/Debug/net6.0/EjerciciosDos.dll
+C:/Users/CA3/Desktop/EjerciciosDos/bin/Debug/net6.0/EjerciciosDos.pdb
+C:/Users/CA3/Desktop/EjerciciosDos/obj/Debug/net6.0/EjerciciosDos.csproj.AssemblyReference.cache
+C:/Users/CA3/Desktop/EjerciciosDos/obj/Debug/net6.0/EjerciciosDos.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/CA3/Desktop/EjerciciosDos/obj/Debug/net6.0/EjerciciosDos.AssemblyInfoInputs.cache
+C:/Users/CA3/Desktop/EjerciciosDos/obj/Debug/net6.0/EjerciciosDos.AssemblyInfo.cs
+C:/Users/CA3/Desktop/EjerciciosDos/obj/Debug/net6.0/EjerciciosDos.csproj.CoreCompileInputs.cache
+C:/Users/CA3/Desktop/EjerciciosDos/obj/Debug/net6.0/EjerciciosDos.dll
+C:/Users/CA3/Desktop/EjerciciosDos/obj/Debug/net6.0/refint/EjerciciosDos.dll
+C:/Users/CA3/Desktop/EjerciciosDos/obj/Debug/net6.0/EjerciciosDos.pdb
+C:/Users/CA3/Desktop/EjerciciosDos/obj/Debug/net6.0/EjerciciosDos.genruntimeconfig.cache
+C:/Users/CA3/Desktop/EjerciciosDos/obj/Debug/net6.0/ref/EjerciciosDos.dll
+/media/raul/669A-258A/Ejercicios Web Integral/EjerciciosDos/bin/Debug/net6.0/EjerciciosDos
+/media/raul/669A-258A/Ejercicios Web Integral/EjerciciosDos/bin/Debug/net6.0/EjerciciosDos.deps.json
+/media/raul/669A-258A/Ejercicios Web Integral/EjerciciosDos/bin/Debug/net6.0/EjerciciosDos.runtimeconfig.json
+/media/raul/669A-258A/Ejercicios Web Integral/EjerciciosDos/bin/Debug/net6.0/EjerciciosDos.dll
+/media/raul/669A-258A/Ejercicios Web Integral/EjerciciosDos/bin/Debug/net6.0/EjerciciosDos.pdb
+/media/raul/669A-258A/Ejercicios Web Integral/EjerciciosDos/obj/Debug/net6.0/EjerciciosDos.csproj.AssemblyReference.cache
+/media/raul/669A-258A/Ejercicios Web Integral/EjerciciosDos/obj/Debug/net6.0/EjerciciosDos.GeneratedMSBuildEditorConfig.editorconfig
+/media/raul/669A-258A/Ejercicios Web Integral/EjerciciosDos/obj/Debug/net6.0/EjerciciosDos.AssemblyInfoInputs.cache
+/media/raul/669A-258A/Ejercicios Web Integral/EjerciciosDos/obj/Debug/net6.0/EjerciciosDos.AssemblyInfo.cs
+/media/raul/669A-258A/Ejercicios Web Integral/EjerciciosDos/obj/Debug/net6.0/EjerciciosDos.csproj.CoreCompileInputs.cache
+/media/raul/669A-258A/Ejercicios Web Integral/EjerciciosDos/obj/Debug/net6.0/EjerciciosDos.dll
+/media/raul/669A-258A/Ejercicios Web Integral/EjerciciosDos/obj/Debug/net6.0/refint/EjerciciosDos.dll
+/media/raul/669A-258A/Ejercicios Web Integral/EjerciciosDos/obj/Debug/net6.0/EjerciciosDos.pdb
+/media/raul/669A-258A/Ejercicios Web Integral/EjerciciosDos/obj/Debug/net6.0/EjerciciosDos.genruntimeconfig.cache
+/media/raul/669A-258A/Ejercicios Web Integral/EjerciciosDos/obj/Debug/net6.0/ref/EjerciciosDos.dll
+D:\Ejercicios Web Integral\EjerciciosDos\bin\Debug\net6.0\EjerciciosDos.exe
+D:\Ejercicios Web Integral\EjerciciosDos\bin\Debug\net6.0\EjerciciosDos.deps.json
+D:\Ejercicios Web Integral\EjerciciosDos\bin\Debug\net6.0\EjerciciosDos.runtimeconfig.json
+D:\Ejercicios Web Integral\EjerciciosDos\bin\Debug\net6.0\EjerciciosDos.dll
+D:\Ejercicios Web Integral\EjerciciosDos\bin\Debug\net6.0\EjerciciosDos.pdb
+D:\Ejercicios Web Integral\EjerciciosDos\obj\Debug\net6.0\EjerciciosDos.csproj.AssemblyReference.cache
+D:\Ejercicios Web Integral\EjerciciosDos\obj\Debug\net6.0\EjerciciosDos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ejercicios Web Integral\EjerciciosDos\obj\Debug\net6.0\EjerciciosDos.AssemblyInfoInputs.cache
+D:\Ejercicios Web Integral\EjerciciosDos\obj\Debug\net6.0\EjerciciosDos.AssemblyInfo.cs
+D:\Ejercicios Web Integral\EjerciciosDos\obj\Debug\net6.0\EjerciciosDos.csproj.CoreCompileInputs.cache
+D:\Ejercicios Web Integral\EjerciciosDos\obj\Debug\net6.0\EjerciciosDos.dll
+D:\Ejercicios Web Integral\EjerciciosDos\obj\Debug\net6.0\refint\EjerciciosDos.dll
+D:\Ejercicios Web Integral\EjerciciosDos\obj\Debug\net6.0\EjerciciosDos.pdb
+D:\Ejercicios Web Integral\EjerciciosDos\obj\Debug\net6.0\EjerciciosDos.genruntimeconfig.cache
+D:\Ejercicios Web Integral\EjerciciosDos\obj\Debug\net6.0\ref\EjerciciosDos.dll
