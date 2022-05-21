@@ -1,0 +1,60 @@
+/home/raul/Documentos/Ejercicios3/bin/Debug/net6.0/Ejercicios3
+/home/raul/Documentos/Ejercicios3/bin/Debug/net6.0/Ejercicios3.deps.json
+/home/raul/Documentos/Ejercicios3/bin/Debug/net6.0/Ejercicios3.runtimeconfig.json
+/home/raul/Documentos/Ejercicios3/bin/Debug/net6.0/Ejercicios3.dll
+/home/raul/Documentos/Ejercicios3/bin/Debug/net6.0/Ejercicios3.pdb
+/home/raul/Documentos/Ejercicios3/obj/Debug/net6.0/Ejercicios3.csproj.AssemblyReference.cache
+/home/raul/Documentos/Ejercicios3/obj/Debug/net6.0/Ejercicios3.GeneratedMSBuildEditorConfig.editorconfig
+/home/raul/Documentos/Ejercicios3/obj/Debug/net6.0/Ejercicios3.AssemblyInfoInputs.cache
+/home/raul/Documentos/Ejercicios3/obj/Debug/net6.0/Ejercicios3.AssemblyInfo.cs
+/home/raul/Documentos/Ejercicios3/obj/Debug/net6.0/Ejercicios3.csproj.CoreCompileInputs.cache
+/home/raul/Documentos/Ejercicios3/obj/Debug/net6.0/Ejercicios3.dll
+/home/raul/Documentos/Ejercicios3/obj/Debug/net6.0/refint/Ejercicios3.dll
+/home/raul/Documentos/Ejercicios3/obj/Debug/net6.0/Ejercicios3.pdb
+/home/raul/Documentos/Ejercicios3/obj/Debug/net6.0/Ejercicios3.genruntimeconfig.cache
+/home/raul/Documentos/Ejercicios3/obj/Debug/net6.0/ref/Ejercicios3.dll
+/home/raul/Documentos/WebIntegral/Ejercicios3/bin/Debug/net6.0/Ejercicios3
+/home/raul/Documentos/WebIntegral/Ejercicios3/bin/Debug/net6.0/Ejercicios3.deps.json
+/home/raul/Documentos/WebIntegral/Ejercicios3/bin/Debug/net6.0/Ejercicios3.runtimeconfig.json
+/home/raul/Documentos/WebIntegral/Ejercicios3/bin/Debug/net6.0/Ejercicios3.dll
+/home/raul/Documentos/WebIntegral/Ejercicios3/bin/Debug/net6.0/Ejercicios3.pdb
+/home/raul/Documentos/WebIntegral/Ejercicios3/obj/Debug/net6.0/Ejercicios3.csproj.AssemblyReference.cache
+/home/raul/Documentos/WebIntegral/Ejercicios3/obj/Debug/net6.0/Ejercicios3.GeneratedMSBuildEditorConfig.editorconfig
+/home/raul/Documentos/WebIntegral/Ejercicios3/obj/Debug/net6.0/Ejercicios3.AssemblyInfoInputs.cache
+/home/raul/Documentos/WebIntegral/Ejercicios3/obj/Debug/net6.0/Ejercicios3.AssemblyInfo.cs
+/home/raul/Documentos/WebIntegral/Ejercicios3/obj/Debug/net6.0/Ejercicios3.csproj.CoreCompileInputs.cache
+/home/raul/Documentos/WebIntegral/Ejercicios3/obj/Debug/net6.0/Ejercicios3.dll
+/home/raul/Documentos/WebIntegral/Ejercicios3/obj/Debug/net6.0/refint/Ejercicios3.dll
+/home/raul/Documentos/WebIntegral/Ejercicios3/obj/Debug/net6.0/Ejercicios3.pdb
+/home/raul/Documentos/WebIntegral/Ejercicios3/obj/Debug/net6.0/Ejercicios3.genruntimeconfig.cache
+/home/raul/Documentos/WebIntegral/Ejercicios3/obj/Debug/net6.0/ref/Ejercicios3.dll
+E:\Ejercicios Web Integral\WebIntegral\Ejercicios3\bin\Debug\net6.0\Ejercicios3.exe
+E:\Ejercicios Web Integral\WebIntegral\Ejercicios3\bin\Debug\net6.0\Ejercicios3.deps.json
+E:\Ejercicios Web Integral\WebIntegral\Ejercicios3\bin\Debug\net6.0\Ejercicios3.runtimeconfig.json
+E:\Ejercicios Web Integral\WebIntegral\Ejercicios3\bin\Debug\net6.0\Ejercicios3.dll
+E:\Ejercicios Web Integral\WebIntegral\Ejercicios3\bin\Debug\net6.0\Ejercicios3.pdb
+E:\Ejercicios Web Integral\WebIntegral\Ejercicios3\obj\Debug\net6.0\Ejercicios3.csproj.AssemblyReference.cache
+E:\Ejercicios Web Integral\WebIntegral\Ejercicios3\obj\Debug\net6.0\Ejercicios3.GeneratedMSBuildEditorConfig.editorconfig
+E:\Ejercicios Web Integral\WebIntegral\Ejercicios3\obj\Debug\net6.0\Ejercicios3.AssemblyInfoInputs.cache
+E:\Ejercicios Web Integral\WebIntegral\Ejercicios3\obj\Debug\net6.0\Ejercicios3.AssemblyInfo.cs
+E:\Ejercicios Web Integral\WebIntegral\Ejercicios3\obj\Debug\net6.0\Ejercicios3.csproj.CoreCompileInputs.cache
+E:\Ejercicios Web Integral\WebIntegral\Ejercicios3\obj\Debug\net6.0\Ejercicios3.dll
+E:\Ejercicios Web Integral\WebIntegral\Ejercicios3\obj\Debug\net6.0\refint\Ejercicios3.dll
+E:\Ejercicios Web Integral\WebIntegral\Ejercicios3\obj\Debug\net6.0\Ejercicios3.pdb
+E:\Ejercicios Web Integral\WebIntegral\Ejercicios3\obj\Debug\net6.0\Ejercicios3.genruntimeconfig.cache
+E:\Ejercicios Web Integral\WebIntegral\Ejercicios3\obj\Debug\net6.0\ref\Ejercicios3.dll
+D:\Ejercicios Web Integral\WebIntegral\PorEntregar\Candidatos\bin\Debug\net6.0\Ejercicios3.exe
+D:\Ejercicios Web Integral\WebIntegral\PorEntregar\Candidatos\bin\Debug\net6.0\Ejercicios3.deps.json
+D:\Ejercicios Web Integral\WebIntegral\PorEntregar\Candidatos\bin\Debug\net6.0\Ejercicios3.runtimeconfig.json
+D:\Ejercicios Web Integral\WebIntegral\PorEntregar\Candidatos\bin\Debug\net6.0\Ejercicios3.dll
+D:\Ejercicios Web Integral\WebIntegral\PorEntregar\Candidatos\bin\Debug\net6.0\Ejercicios3.pdb
+D:\Ejercicios Web Integral\WebIntegral\PorEntregar\Candidatos\obj\Debug\net6.0\Ejercicios3.csproj.AssemblyReference.cache
+D:\Ejercicios Web Integral\WebIntegral\PorEntregar\Candidatos\obj\Debug\net6.0\Ejercicios3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ejercicios Web Integral\WebIntegral\PorEntregar\Candidatos\obj\Debug\net6.0\Ejercicios3.AssemblyInfoInputs.cache
+D:\Ejercicios Web Integral\WebIntegral\PorEntregar\Candidatos\obj\Debug\net6.0\Ejercicios3.AssemblyInfo.cs
+D:\Ejercicios Web Integral\WebIntegral\PorEntregar\Candidatos\obj\Debug\net6.0\Ejercicios3.csproj.CoreCompileInputs.cache
+D:\Ejercicios Web Integral\WebIntegral\PorEntregar\Candidatos\obj\Debug\net6.0\Ejercicios3.dll
+D:\Ejercicios Web Integral\WebIntegral\PorEntregar\Candidatos\obj\Debug\net6.0\refint\Ejercicios3.dll
+D:\Ejercicios Web Integral\WebIntegral\PorEntregar\Candidatos\obj\Debug\net6.0\Ejercicios3.pdb
+D:\Ejercicios Web Integral\WebIntegral\PorEntregar\Candidatos\obj\Debug\net6.0\Ejercicios3.genruntimeconfig.cache
+D:\Ejercicios Web Integral\WebIntegral\PorEntregar\Candidatos\obj\Debug\net6.0\ref\Ejercicios3.dll

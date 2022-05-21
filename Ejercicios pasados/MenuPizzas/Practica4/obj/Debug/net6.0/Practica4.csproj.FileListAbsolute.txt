@@ -1,0 +1,60 @@
+/home/raul/RiderProjects/Practica4/Practica4/bin/Debug/net6.0/Practica4
+/home/raul/RiderProjects/Practica4/Practica4/bin/Debug/net6.0/Practica4.deps.json
+/home/raul/RiderProjects/Practica4/Practica4/bin/Debug/net6.0/Practica4.runtimeconfig.json
+/home/raul/RiderProjects/Practica4/Practica4/bin/Debug/net6.0/Practica4.dll
+/home/raul/RiderProjects/Practica4/Practica4/bin/Debug/net6.0/Practica4.pdb
+/home/raul/RiderProjects/Practica4/Practica4/obj/Debug/net6.0/Practica4.csproj.AssemblyReference.cache
+/home/raul/RiderProjects/Practica4/Practica4/obj/Debug/net6.0/Practica4.GeneratedMSBuildEditorConfig.editorconfig
+/home/raul/RiderProjects/Practica4/Practica4/obj/Debug/net6.0/Practica4.AssemblyInfoInputs.cache
+/home/raul/RiderProjects/Practica4/Practica4/obj/Debug/net6.0/Practica4.AssemblyInfo.cs
+/home/raul/RiderProjects/Practica4/Practica4/obj/Debug/net6.0/Practica4.csproj.CoreCompileInputs.cache
+/home/raul/RiderProjects/Practica4/Practica4/obj/Debug/net6.0/Practica4.dll
+/home/raul/RiderProjects/Practica4/Practica4/obj/Debug/net6.0/refint/Practica4.dll
+/home/raul/RiderProjects/Practica4/Practica4/obj/Debug/net6.0/Practica4.pdb
+/home/raul/RiderProjects/Practica4/Practica4/obj/Debug/net6.0/Practica4.genruntimeconfig.cache
+/home/raul/RiderProjects/Practica4/Practica4/obj/Debug/net6.0/ref/Practica4.dll
+D:\Ejercicios Web Integral\Practica4\Practica4\bin\Debug\net6.0\Practica4.exe
+D:\Ejercicios Web Integral\Practica4\Practica4\bin\Debug\net6.0\Practica4.deps.json
+D:\Ejercicios Web Integral\Practica4\Practica4\bin\Debug\net6.0\Practica4.runtimeconfig.json
+D:\Ejercicios Web Integral\Practica4\Practica4\bin\Debug\net6.0\Practica4.dll
+D:\Ejercicios Web Integral\Practica4\Practica4\bin\Debug\net6.0\Practica4.pdb
+D:\Ejercicios Web Integral\Practica4\Practica4\obj\Debug\net6.0\Practica4.csproj.AssemblyReference.cache
+D:\Ejercicios Web Integral\Practica4\Practica4\obj\Debug\net6.0\Practica4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ejercicios Web Integral\Practica4\Practica4\obj\Debug\net6.0\Practica4.AssemblyInfoInputs.cache
+D:\Ejercicios Web Integral\Practica4\Practica4\obj\Debug\net6.0\Practica4.AssemblyInfo.cs
+D:\Ejercicios Web Integral\Practica4\Practica4\obj\Debug\net6.0\Practica4.csproj.CoreCompileInputs.cache
+D:\Ejercicios Web Integral\Practica4\Practica4\obj\Debug\net6.0\Practica4.dll
+D:\Ejercicios Web Integral\Practica4\Practica4\obj\Debug\net6.0\refint\Practica4.dll
+D:\Ejercicios Web Integral\Practica4\Practica4\obj\Debug\net6.0\Practica4.pdb
+D:\Ejercicios Web Integral\Practica4\Practica4\obj\Debug\net6.0\Practica4.genruntimeconfig.cache
+D:\Ejercicios Web Integral\Practica4\Practica4\obj\Debug\net6.0\ref\Practica4.dll
+E:\Ejercicios Web Integral\WebIntegral\PorEntregar\MenuPizzas\Practica4\bin\Debug\net6.0\Practica4.exe
+E:\Ejercicios Web Integral\WebIntegral\PorEntregar\MenuPizzas\Practica4\bin\Debug\net6.0\Practica4.deps.json
+E:\Ejercicios Web Integral\WebIntegral\PorEntregar\MenuPizzas\Practica4\bin\Debug\net6.0\Practica4.runtimeconfig.json
+E:\Ejercicios Web Integral\WebIntegral\PorEntregar\MenuPizzas\Practica4\bin\Debug\net6.0\Practica4.dll
+E:\Ejercicios Web Integral\WebIntegral\PorEntregar\MenuPizzas\Practica4\bin\Debug\net6.0\Practica4.pdb
+E:\Ejercicios Web Integral\WebIntegral\PorEntregar\MenuPizzas\Practica4\obj\Debug\net6.0\Practica4.csproj.AssemblyReference.cache
+E:\Ejercicios Web Integral\WebIntegral\PorEntregar\MenuPizzas\Practica4\obj\Debug\net6.0\Practica4.GeneratedMSBuildEditorConfig.editorconfig
+E:\Ejercicios Web Integral\WebIntegral\PorEntregar\MenuPizzas\Practica4\obj\Debug\net6.0\Practica4.AssemblyInfoInputs.cache
+E:\Ejercicios Web Integral\WebIntegral\PorEntregar\MenuPizzas\Practica4\obj\Debug\net6.0\Practica4.AssemblyInfo.cs
+E:\Ejercicios Web Integral\WebIntegral\PorEntregar\MenuPizzas\Practica4\obj\Debug\net6.0\Practica4.csproj.CoreCompileInputs.cache
+E:\Ejercicios Web Integral\WebIntegral\PorEntregar\MenuPizzas\Practica4\obj\Debug\net6.0\Practica4.dll
+E:\Ejercicios Web Integral\WebIntegral\PorEntregar\MenuPizzas\Practica4\obj\Debug\net6.0\refint\Practica4.dll
+E:\Ejercicios Web Integral\WebIntegral\PorEntregar\MenuPizzas\Practica4\obj\Debug\net6.0\Practica4.pdb
+E:\Ejercicios Web Integral\WebIntegral\PorEntregar\MenuPizzas\Practica4\obj\Debug\net6.0\Practica4.genruntimeconfig.cache
+E:\Ejercicios Web Integral\WebIntegral\PorEntregar\MenuPizzas\Practica4\obj\Debug\net6.0\ref\Practica4.dll
+D:\Ejercicios Web Integral\WebIntegral\PorEntregar\MenuPizzas\Practica4\bin\Debug\net6.0\Practica4.exe
+D:\Ejercicios Web Integral\WebIntegral\PorEntregar\MenuPizzas\Practica4\bin\Debug\net6.0\Practica4.deps.json
+D:\Ejercicios Web Integral\WebIntegral\PorEntregar\MenuPizzas\Practica4\bin\Debug\net6.0\Practica4.runtimeconfig.json
+D:\Ejercicios Web Integral\WebIntegral\PorEntregar\MenuPizzas\Practica4\bin\Debug\net6.0\Practica4.dll
+D:\Ejercicios Web Integral\WebIntegral\PorEntregar\MenuPizzas\Practica4\bin\Debug\net6.0\Practica4.pdb
+D:\Ejercicios Web Integral\WebIntegral\PorEntregar\MenuPizzas\Practica4\obj\Debug\net6.0\Practica4.csproj.AssemblyReference.cache
+D:\Ejercicios Web Integral\WebIntegral\PorEntregar\MenuPizzas\Practica4\obj\Debug\net6.0\Practica4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ejercicios Web Integral\WebIntegral\PorEntregar\MenuPizzas\Practica4\obj\Debug\net6.0\Practica4.AssemblyInfoInputs.cache
+D:\Ejercicios Web Integral\WebIntegral\PorEntregar\MenuPizzas\Practica4\obj\Debug\net6.0\Practica4.AssemblyInfo.cs
+D:\Ejercicios Web Integral\WebIntegral\PorEntregar\MenuPizzas\Practica4\obj\Debug\net6.0\Practica4.csproj.CoreCompileInputs.cache
+D:\Ejercicios Web Integral\WebIntegral\PorEntregar\MenuPizzas\Practica4\obj\Debug\net6.0\Practica4.dll
+D:\Ejercicios Web Integral\WebIntegral\PorEntregar\MenuPizzas\Practica4\obj\Debug\net6.0\refint\Practica4.dll
+D:\Ejercicios Web Integral\WebIntegral\PorEntregar\MenuPizzas\Practica4\obj\Debug\net6.0\Practica4.pdb
+D:\Ejercicios Web Integral\WebIntegral\PorEntregar\MenuPizzas\Practica4\obj\Debug\net6.0\Practica4.genruntimeconfig.cache
+D:\Ejercicios Web Integral\WebIntegral\PorEntregar\MenuPizzas\Practica4\obj\Debug\net6.0\ref\Practica4.dll

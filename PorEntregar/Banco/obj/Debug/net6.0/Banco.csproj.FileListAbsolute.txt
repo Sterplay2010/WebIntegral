@@ -1,0 +1,15 @@
+/mnt/SSD/Banco/bin/Debug/net6.0/Banco
+/mnt/SSD/Banco/bin/Debug/net6.0/Banco.deps.json
+/mnt/SSD/Banco/bin/Debug/net6.0/Banco.runtimeconfig.json
+/mnt/SSD/Banco/bin/Debug/net6.0/Banco.dll
+/mnt/SSD/Banco/bin/Debug/net6.0/ref/Banco.dll
+/mnt/SSD/Banco/bin/Debug/net6.0/Banco.pdb
+/mnt/SSD/Banco/obj/Debug/net6.0/Banco.csproj.AssemblyReference.cache
+/mnt/SSD/Banco/obj/Debug/net6.0/Banco.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/SSD/Banco/obj/Debug/net6.0/Banco.AssemblyInfoInputs.cache
+/mnt/SSD/Banco/obj/Debug/net6.0/Banco.AssemblyInfo.cs
+/mnt/SSD/Banco/obj/Debug/net6.0/Banco.csproj.CoreCompileInputs.cache
+/mnt/SSD/Banco/obj/Debug/net6.0/Banco.dll
+/mnt/SSD/Banco/obj/Debug/net6.0/ref/Banco.dll
+/mnt/SSD/Banco/obj/Debug/net6.0/Banco.pdb
+/mnt/SSD/Banco/obj/Debug/net6.0/Banco.genruntimeconfig.cache
